@@ -1,0 +1,2 @@
+# HistoryExtractorAuto
+PRTG extractor
